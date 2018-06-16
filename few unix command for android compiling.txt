@@ -1,0 +1,50 @@
+building a rom: make otapackage -j8 WITH_DEXPREOPT=false 2<&1 | tee log
+
+changing room service type: export ROOMSERVICE_BRANCHES=cm-13.0
+
+export jack server and restart it: export JACK_SERVER_VM_ARGUMENTS="-Dfile.encoding=UTF-8 -XX:+TieredCompilation -Xmx4g"
+./prebuilts/sdk/tools/jack-admin kill-server
+./prebuilts/sdk/tools/jack-admin start-server
+
+***********REMOVE   SOURCES***********
+rm -rf device/samsung/s3ve3g && rm -rf device/samsung/msm8226-common && rm -rf kernel/samsung/s3ve3g && rm -rf vendor/samsung/s3ve3g
+
+
+***********DOWNLOAD SOURCES***********
+download kernel nougat: git clone https://github.com/S3NEO/android_kernel_samsung_s3ve3g -b lineage-14.1 kernel/samsung/s3ve3g
+
+download vendor nougat for sammy sensors: git clone https://github.com/S3NEO/android_vendor_samsung_s3ve3g_samsung -b lineage-14.1 vendor/samsung/s3ve3g
+
+donwlaod msm8226 common: git clone https://github.com/DarkJoker360/android_device_samsung_msm8226-common -b lineage-14.1 device/samsung/msm8226-common
+
+download s3ve3g: git clone https://github.com/DarkJoker360/android_device_samsung_s3ve3g -b lineage-14.1 device/samsung/s3ve3g
+
+
+
+OREO ERROR WHILE BUILDING
+
+FAILED: /root/rros/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/classes-full-debug.jar
+/bin/bash /root/rros/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/classes-full-debug.jar.rsp
+/root/rros/out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/core/java/android/print/IPrintSpooler.java:313: error: error while writing Proxy: No space left on device
+private static class Proxy implements android.print.IPrintSpooler
+
+
+
+OPEN ENVSETUP
+. build/envsetup.sh
+
+
+MANTEINANCE MANUFACTER 
+
+            <s3ve3g>
+                  <maintainer>Simone Esposito (DarkJoker360)</maintainer>
+                  <devicename>Galaxy S3 NEO</devicename>
+                  <filename>crDroidAndroid-8.1-20180608-s3ve3g-v4.3</filename>
+                  <buildtype>Weekly</buildtype>
+                  <download>http://bit.ly/2lbnnru</download>
+                  <changelog>http://bit.ly/2ycwqBD</changelog>
+		  <gapps>http://opengapps.org</gapps>
+                  <forum>http://bit.ly/2LQMQBA</forum>
+		  <paypal>http://bit.ly/2HO83tQ</paypal>
+		  <telegram>https://t.me/SimoMusic</telegram>
+            </s3ve3g>
