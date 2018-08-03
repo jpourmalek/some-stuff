@@ -1,0 +1,70 @@
+***DarkJoker360' s works***
+
+*[ROM]CyanogenMod 11 for Samsung Galaxy mini/next: https://forum.xda-developers.com/galaxy-mini/orig-dev/rom-cyanogenmod-11-gt-s5570-t3403265
+*[GUIDE]How to fix drain in standby for custom roms: https://forum.xda-developers.com/android/general/aosp-how-to-fix-drain-standby-t3412556
+*[GUIDE]How to enable eyes protection on emui: https://forum.xda-developers.com/p8lite/general/root-how-to-enable-eyes-protection-t3619696
+*[THEME]Honor 9 Stock Themes for emui: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-honor-9-stock-themes-t3666689
+*[THEME]Huawei P10 Stock Themes for emui: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-0-stock-huawei-p10-themes-t3699149
+*[ROM]Modded stock rom 4.4.2 for Deco 77x: https://forum.xda-developers.com/android/development/4-4-2-modded-stock-rom-deco77x-t3712754
+*[THEME]AOSP N theme for emui: https://forum.xda-developers.com/p8lite/themes-apps/theme-aosp-n-v1-0-t3680680
+*[THEME]Miui 8 for emui: https://forum.xda-developers.com/p8lite/themes-apps/theme-aosp-n-v1-0-t3680680
+*[MOD]Emui 5 system audio for emui 4: https://forum.xda-developers.com/p8lite/themes-apps/mod-emui-5-audio-t3740518
+*[THEME]AOSP O for emui: https://forum.xda-developers.com/p8lite/themes-apps/theme-aosp-o-t3711654
+*[THEME]Huawei P20 Stock Themes for emui: https://forum.xda-developers.com/p8lite/themes-apps/theme-aosp-o-t3711654
+*[THEME]Emui 5.0 and Emui 5.1 for Emui 4.1 or lower: https://forum.xda-developers.com/p8lite/themes-apps/theme-maximax2795-s-emui-5-theme-fixed-t3663854
+*[ROM]KangVIP B610 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/general/twrp-backup-kangvip-b610-t3687410
+*[GUIDE]How to see 4g instead of LTE or the way around for emui: https://forum.xda-developers.com/p8lite/general/guide-how-to-lte-instead-4g-t3788599
+*[THEME] Emui 8.0.0 for emui 4.1 or lower: https://forum.xda-developers.com/p8lite/themes-apps/beta-emui-8-0-0-theme-t3716999
+*[ROM]RROS N v5.8.5 for Samsung Galaxy S3 Neo: https://forum.xda-developers.com/p8lite/themes-apps/beta-emui-8-0-0-theme-t3716999
+*[ROM]AOKP N for Samsung Galaxy S3 Neo: https://forum.xda-developers.com/galaxy-s3-neo/orig-development/rom-aokp-n-s3-neo-t3749512
+*[ROM]crDroid N v3.8.7 for Samsung Galaxy S3 Neo: https://forum.xda-developers.com/galaxy-s3-neo/orig-development/rom-cddroid-v3-8-7-s3-neo-t3786848
+*[ROM][OFFICIAL]crDroid O v4.4 for Samsung Galaxy S3 Neo: https://forum.xda-developers.com/galaxy-s3-neo/orig-development/rom-crdroid-v4-3-s3-neo-t3800606
+*[ROM]RROS O v6.1.0 for Samsung Galaxy S3 Neo: https://forum.xda-developers.com/galaxy-s3-neo/orig-development/rom-rros-o-v6-1-0-s3-neo-t3809903
+*[FIRMWARES][GUIDE] Service Repair Firmwares for Huawei P8 lite 2015 and P8 lite 2017: https://forum.xda-developers.com/p8lite/general/pra-lx1-repair-service-firmware-huawei-t3810115
+*[ROM] crDroid Android v3.8.8 for S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-crdroid-v3-8-8-galaxy-s4-mini-t3811438
+*[ROM][OFFICIAL] crDroid Android v4.5 for S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-crdroid-v4-4-s4-mini-t3811932
+*[EMUI 4.x] MIUI 10 Stock Themes:https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-miui-10-stock-themes-t3814587 
+*[EMUI 5.x] MIUI 10 Stock Themes:https://forum.xda-developers.com/p9/themes/emui-5-x-miui-10-stock-themes-t3814590
+*[EMUI 8.x] MIUI 10 Stock Themes:https://forum.xda-developers.com/p10/themes/emui-8-x-miui-10-stock-themes-t3814592
+*[EMUI 3.x] Mega Folders with 1k+ themes:https://forum.xda-developers.com/ascend-p7/themes-apps/emui-3-x-mega-folders-1k-themes-t3816754
+*[EMUI 4.x] Mega Folders with 1k+ themes:https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-mega-folders-1k-themes-t3816753
+*[EMUI 5.x] Mega Folders with 1k+ themes:https://forum.xda-developers.com/p9/themes/emui-5-x-mega-folders-1k-themes-t3816755
+*[EMUI 8.x] Mega Folders with 1k+ themes:https://forum.xda-developers.com/p10/themes/emui-8-x-mega-folders-1k-themes-t3816756
+*[ROM][8.1] AICP O v13.1 for Samsung Galaxy S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-aicp-o-v13-1-samsung-galaxy-s4-mini-t3818126
+*[ROM][8.1] crDroid Android v4.5 for Galaxy J5: https://forum.xda-developers.com/galaxy-j5/development/rom-crdroid-v4-5-galaxy-j5-t3820468
+*[ROM][Treble][8.1] AICP O v13.1 for Huawei/Honor hi6250 devices: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aicp-o-v13-1-huawei-honor-hi6250-t3821865
+*[THEME][EMUI 4.x] Resurrection Remix O v6.1.0 theme: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-resurrection-remix-o-v6-1-0-t3823031
+*[ROM][Treble][8.1] LineageOS 15.1 for Huawei Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-lineageos-15-1-mate-10-lite-t3823234
+*[ROM][Treble][8.1] AICP O v13.1 for Huawei Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-aicp-o-v13-1-mate-10-lite-t3823223
+*[ROM][Treble][8.1]: crDroid Android v4.5 for Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-crdroid-v4-5-mate-10-lite-t3823300
+*[ROM][Treble][8.1]: crDroid Android v4.5 for P20 Lite: https://forum.xda-developers.com/huawei-p20-lite/development/rom-crdroid-v4-5-p20-lite-t3823301
+*[ROM][Treble][8.1]: EspositoOS 1.0 for P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-espositoos-p8-lite-2017-t3824060
+*[ROM][Treble][8.1]: EspositoOS 1.0 for P20 Lite: https://forum.xda-developers.com/huawei-p20-lite/development/rom-espositoos-1-0-p20-lite-t3824059
+*[ROM][Treble][8.1]: EspositoOS 1.0 for Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-espositoos-1-0-mate-10-lite-t3824057
+*[ROM][7.1.2]: LineageOS 14.1 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-14-1-p8-lite-t3824247
+
+***Where DarkJoker360 contributed***
+
+* https://forum.xda-developers.com/gal...3-neo-t3706790
+* https://forum.xda-developers.com/p8l...sting-t3691142
+* https://forum.xda-developers.com/gal...coral-t3772897
+* https://forum.xda-developers.com/gal...-v1-2-t3768082
+* https://forum.xda-developers.com/gal...3-neo-t3795648
+* https://forum.xda-developers.com/gal...5-8-5-t3810210
+* https://forum.xda-developers.com/gal...3-neo-t3798635
+* https://forum.xda-developers.com/gal...3-neo-t3795428
+* https://forum.xda-developers.com/gal...s3neo-t3798351
+* https://forum.xda-developers.com/gal...3-neo-t3796943
+* https://forum.xda-developers.com/gal...-v2-5-t3774776
+* https://forum.xda-developers.com/gal...-beta-t3772343
+* https://forum.xda-developers.com/gal...ensor-t3761986
+* https://forum.xda-developers.com/gal...coral-t3773206
+* https://forum.xda-developers.com/gal...7-1-2-t3780693 
+* https://forum.xda-developers.com/gal...and-2-t3795759
+* https://forum.xda-developers.com/gal...3-17r-t3779024
+* https://forum.xda-developers.com/gal...and-2-t3779110
+* https://forum.xda-developers.com/gal...3-neo-t3798893
+* https://forum.xda-developers.com/gal...sgp-x-t3790918
+* https://forum.xda-developers.com/gal...7-1-2-t3809589
+* https://forum.xda-developers.com/gal...alaxy-t3762631
+* https://forum.xda-developers.com/p8lite/development/rom-slimroms-ng-7-1-huawei-p8-lite-ale-t3683300
