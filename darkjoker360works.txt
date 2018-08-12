@@ -43,6 +43,9 @@
 *[ROM][Treble][8.1]: EspositoOS 1.0 for Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-espositoos-1-0-mate-10-lite-t3824057
 *[ROM][7.1.2]: LineageOS 14.1 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-14-1-p8-lite-t3824247
 *[ROM][7.1.2] AICP N v12.1 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-aicp-n-v12-1-p8-lite-t3824762
+*[THEME][EMUI 4.x] crDroid Android O v4.5 Theme: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-crdroid-android-v4-5-oreo-theme-t3828371
+*[THEME][EMUI 4.x] DotOS o v2.3.1 Theme: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-dotos-o-v2-3-1-theme-t3828373
+
 
 ***Where DarkJoker360 contributed***
 
