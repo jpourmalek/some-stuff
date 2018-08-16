@@ -73,3 +73,4 @@
 * https://forum.xda-developers.com/gal...7-1-2-t3809589
 * https://forum.xda-developers.com/gal...alaxy-t3762631
 * https://forum.xda-developers.com/p8lite/development/rom-slimroms-ng-7-1-huawei-p8-lite-ale-t3683300
+* https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixel-experience-v9-0-hi6250-device-t3830058/post77350195#post77350195
