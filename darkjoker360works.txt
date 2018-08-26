@@ -47,6 +47,10 @@
 *[THEME][EMUI 4.x] DotOS o v2.3.1 Theme: https://forum.xda-developers.com/p8lite/themes-apps/emui-4-x-dotos-o-v2-3-1-theme-t3828373
 *[ROM][Treble][9.0]:Pixel Experience P v9.0 for Huawei P20 Lite: https://forum.xda-developers.com/huawei-p20-lite/development/rom-pixel-experience-p-v9-0-huawei-p20-t3830057
 *[ROM][Treble][9.0]:Pixel Experience P v9.0 for Huawei Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-pixel-experience-p-v9-0-huawei-p20-t3830062
+*[ROM][Treble][9.0]AOSP 9 for Mate 10:https://forum.xda-developers.com/mate-10/development/rom-aosp-9-mate-10-lite-t3834285
+*[ROM][Treble][9.0]AOSP 9 for Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-aosp-9-huawei-mate-10-lite-t3834287
+*[ROM][Treble][9.0]AOSP 9 for P20 Lite: https://forum.xda-developers.com/huawei-p20-lite/development/rom-aosp-9-p20-lite-t3834282
+*[ROM][Treble][9.0]AOSP 9 for Honor 6X: https://forum.xda-developers.com/honor-6x/development/rom-aosp-9-honor-6x-t3834286
 
 ***Where DarkJoker360 contributed***
 
@@ -74,3 +78,4 @@
 * https://forum.xda-developers.com/gal...alaxy-t3762631
 * https://forum.xda-developers.com/p8lite/development/rom-slimroms-ng-7-1-huawei-p8-lite-ale-t3683300
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixel-experience-v9-0-hi6250-device-t3830058/post77350195#post77350195
+*https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aosp-pie-t3834283
