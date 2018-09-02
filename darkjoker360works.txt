@@ -79,3 +79,4 @@
 * https://forum.xda-developers.com/p8lite/development/rom-slimroms-ng-7-1-huawei-p8-lite-ale-t3683300
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixel-experience-v9-0-hi6250-device-t3830058/post77350195#post77350195
 *https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aosp-pie-t3834283
+*https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dotos-8-1-huawei-hi6250-t3793970/post76592377
