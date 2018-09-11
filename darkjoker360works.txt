@@ -51,6 +51,7 @@
 *[ROM][Treble][9.0]AOSP 9 for Mate 10 Lite: https://forum.xda-developers.com/mate-10/huawei-mate-10-lite--roms-kernels-recoveries--other-development/rom-aosp-9-huawei-mate-10-lite-t3834287
 *[ROM][Treble][9.0]AOSP 9 for P20 Lite: https://forum.xda-developers.com/huawei-p20-lite/development/rom-aosp-9-p20-lite-t3834282
 *[ROM][Treble][9.0]AOSP 9 for Honor 6X: https://forum.xda-developers.com/honor-6x/development/rom-aosp-9-honor-6x-t3834286
+*[MOD][EMUI 4.x]Emui Extended for hi6210sft: https://forum.xda-developers.com/p8lite/general/emui-4-x-emui-extended-t3841068
 
 ***Where DarkJoker360 contributed***
 
