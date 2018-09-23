@@ -53,6 +53,7 @@
 *[ROM][Treble][9.0]AOSP 9 for Honor 6X: https://forum.xda-developers.com/honor-6x/development/rom-aosp-9-honor-6x-t3834286
 *[MOD][EMUI 4.x]Emui Extended for hi6210sft: https://forum.xda-developers.com/p8lite/general/emui-4-x-emui-extended-t3841068
 *[ROM][7.1.2] RROS N v5.8.6 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-rros-v5-8-6-huawei-p8-lite-t3843760
+*[GUIDE] How to get unlock code - September 2018: https://forum.xda-developers.com/huawei-p20/how-to/guide-how-to-bootloader-code-unlock-t3846006
 
 ***Where DarkJoker360 contributed***
 
