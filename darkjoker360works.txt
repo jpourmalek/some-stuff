@@ -53,7 +53,8 @@
 *[ROM][Treble][9.0]AOSP 9 for Honor 6X: https://forum.xda-developers.com/honor-6x/development/rom-aosp-9-honor-6x-t3834286
 *[MOD][EMUI 4.x]Emui Extended for hi6210sft: https://forum.xda-developers.com/p8lite/general/emui-4-x-emui-extended-t3841068
 *[ROM][7.1.2] RROS N v5.8.6 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-rros-v5-8-6-huawei-p8-lite-t3843760
-*[MAGISK MODULE]Emui Stock System Sound for AOSP: https://forum.xda-developers.com/huawei-p20/themes/magisk-module-emui-stock-sound-aosp-t3853358
+*[ROM][9.0]crDroidAndroid v5.0 for Galaxy S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-crdroidandroid-v5-0-s4-mini-t3869816
+
 
 ***Where DarkJoker360 contributed***
 
