@@ -55,6 +55,7 @@
 *[ROM][7.1.2] RROS N v5.8.6 for Huawei P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-rros-v5-8-6-huawei-p8-lite-t3843760
 *[ROM][9.0]crDroidAndroid v5.0 for Galaxy S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-crdroidandroid-v5-0-s4-mini-t3869816
 *[GUIDE][SCRIPTS]How to build a rom using my script: https://forum.xda-developers.com/showpost.php?p=78235722&postcount=265
+*[ROM][9.0] AospExtended for Hi6250 devices: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aospextended-6-0-hi6250-devices-t3871180
 
 ***Where DarkJoker360 contributed***
 
