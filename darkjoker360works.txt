@@ -56,7 +56,7 @@
 *[ROM][9.0]crDroidAndroid v5.0 for Galaxy S4 Mini: https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-crdroidandroid-v5-0-s4-mini-t3869816
 *[GUIDE][SCRIPTS]How to build a rom using my script: https://forum.xda-developers.com/showpost.php?p=78235722&postcount=265
 *[ROM][9.0] AospExtended for Hi6250 devices: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aospextended-6-0-hi6250-devices-t3871180
-
+*[MAGISK MODULE][17.0+][6.x-7.x-8.x] HWCEnabler for Hi6210sft devices: https://forum.xda-developers.com/p8lite/general/magisk-module-hwcenabler-hi6210sft-t3882121
 ***Where DarkJoker360 contributed***
 
 * https://forum.xda-developers.com/gal...3-neo-t3706790
