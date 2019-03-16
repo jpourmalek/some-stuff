@@ -59,6 +59,7 @@
 *[MAGISK MODULE][17.0+][6.x-7.x-8.x] HWCEnabler for Hi6210sft devices: https://forum.xda-developers.com/p8lite/general/magisk-module-hwcenabler-hi6210sft-t3882121
 * [ROM][Treble][8.1] LineageOS 15.1 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-lineageos-15-1-huawei-p8-lite-2017-t3886328/post78589754
 * [GUIDE] How to fix video recording on Emui Camera Pie port: https://forum.xda-developers.com/p8lite/p8-lite-2017-discussion/how-to-fix-video-recording-emui-camera-t3904213
+* [ROM][Treble][9.0] Dot OS P v3.0 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dot-os-p-v3-0-huawei-p8-lite-2017-t3911925
 
 ***Where DarkJoker360 contributed***
 
