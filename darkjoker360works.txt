@@ -61,7 +61,7 @@
 * [GUIDE] How to fix video recording on Emui Camera Pie port: https://forum.xda-developers.com/p8lite/p8-lite-2017-discussion/how-to-fix-video-recording-emui-camera-t3904213
 * [ROM][Treble][9.0] Dot OS P v3.0 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dot-os-p-v3-0-huawei-p8-lite-2017-t3911925
 * [THEMES][EMUI 8-9 ] Huawei P30 pro stock Themes and Wallpapers: https://forum.xda-developers.com/huawei-p20/themes/themes-huawei-p30-pro-stock-themes-t3916441/post79225624#post79225624
-
+* [THEME][EMUI 4+] Emui 9.1.0 Theme for Emui 4: https://forum.xda-developers.com/p8lite/themes-apps/alpha-emui-9-1-0-theme-t3922296/post79356599#post79356599
 
 ***Where DarkJoker360 contributed***
 
