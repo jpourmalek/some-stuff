@@ -62,8 +62,8 @@
 * [ROM][Treble][9.0] Dot OS P v3.0 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dot-os-p-v3-0-huawei-p8-lite-2017-t3911925
 * [THEMES][EMUI 8-9 ] Huawei P30 pro stock Themes and Wallpapers: https://forum.xda-developers.com/huawei-p20/themes/themes-huawei-p30-pro-stock-themes-t3916441/post79225624#post79225624
 * [THEME][EMUI 4+] Emui 9.1.0 Theme for Emui 4: https://forum.xda-developers.com/p8lite/themes-apps/alpha-emui-9-1-0-theme-t3922296/post79356599#post79356599
-*[ROM][8.1] LineageOS 15.1 for P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-15-1-p8-lite-t3928723/post79494042#post79494042
-
+* [ROM][8.1] LineageOS 15.1 for P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-15-1-p8-lite-t3928723/post79494042#post79494042
+* [ROM][9.0] BootleggersROM 4.1 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-bootleggersrom-4-1-huawei-p8-lite-t3932110
 
 ***Where DarkJoker360 contributed***
 
