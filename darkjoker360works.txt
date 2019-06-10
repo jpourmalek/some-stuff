@@ -64,6 +64,7 @@
 * [THEME][EMUI 4+] Emui 9.1.0 Theme for Emui 4: https://forum.xda-developers.com/p8lite/themes-apps/alpha-emui-9-1-0-theme-t3922296/post79356599#post79356599
 * [ROM][8.1] LineageOS 15.1 for P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-15-1-p8-lite-t3928723/post79494042#post79494042
 * [ROM][9.0] BootleggersROM 4.1 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-bootleggersrom-4-1-huawei-p8-lite-t3932110
+* [ROM][Treble][8.1] AOKP Oreo Extended for P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aokp-oreo-extended-huawei-p8-lite-t3938339
 
 ***Where DarkJoker360 contributed***
 
