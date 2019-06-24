@@ -65,6 +65,8 @@
 * [ROM][8.1] LineageOS 15.1 for P8 Lite: https://forum.xda-developers.com/p8lite/development/rom-lineageos-15-1-p8-lite-t3928723/post79494042#post79494042
 * [ROM][9.0] BootleggersROM 4.1 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-bootleggersrom-4-1-huawei-p8-lite-t3932110
 * [ROM][Treble][8.1] AOKP Oreo Extended for P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aokp-oreo-extended-huawei-p8-lite-t3938339
+* [WIP][9] Emui 9.1 porting for P10 Lite: https://forum.xda-developers.com/p10-lite/development/wip-emui-9-1-porting-p10-lite-t3942559
+
 
 ***Where DarkJoker360 contributed***
 
@@ -95,3 +97,4 @@
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aosp-pie-t3834283
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-dotos-8-1-huawei-hi6250-t3793970/post76592377
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixysos-huawei-hi6250-t3852152
+* https://forum.xda-developers.com/p8lite/development/rom-t3926949
