@@ -67,6 +67,7 @@
 * [ROM][Treble][8.1] AOKP Oreo Extended for P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aokp-oreo-extended-huawei-p8-lite-t3938339
 * [WIP][9] Emui 9.1 porting for P10 Lite: https://forum.xda-developers.com/p10-lite/development/wip-emui-9-1-porting-p10-lite-t3942559
 * [ROM][9.0] AOSP 9.0 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-aosp-9-0-huawei-p10-lite-t3946196
+*[ROM][9]ViperOS for Redmi Note 7: https://forum.xda-developers.com/redmi-note-7/development/rom-viperos-redmi-note-7-t3946579
 
 ***Where DarkJoker360 contributed***
 
