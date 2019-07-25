@@ -71,6 +71,8 @@
 *[ROM][9] Resurrection Remix for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-resurrection-remix-p10-lite-t3946705
 *[ROM][9] BootleggerROM 4.2 for P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-bootleggersrom-4-2-huawei-p10-lite-t3947110
 *[ROM][9] ArrowOS for Redmi Note 7: https://forum.xda-developers.com/redmi-note-7/development/rom-arrowos-redmi-note-7-t3947109
+*[ROM][9] LineageOS 16 for Redmi Note 7: https://forum.xda-developers.com/redmi-note-7/development/rom-lineageos-16-0-redmi-note-7-t3949983
+*[ROM][OTA][8.1] LineageOS 15.1 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-lineageos-15-1-huawei-p10-lite-t3951279
 
 ***Where DarkJoker360 contributed***
 
@@ -103,3 +105,4 @@
 * https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixysos-huawei-hi6250-t3852152
 * https://forum.xda-developers.com/p8lite/development/rom-t3926949
 * https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-projecttitanium-beta-arm64-b-t3944646
+* https://forum.xda-developers.com/redmi-note-7/development/rom-pixelexperience-t3947858
