@@ -73,6 +73,8 @@
 *[ROM][9] ArrowOS for Redmi Note 7: https://forum.xda-developers.com/redmi-note-7/development/rom-arrowos-redmi-note-7-t3947109
 *[ROM][9] LineageOS 16 for Redmi Note 7: https://forum.xda-developers.com/redmi-note-7/development/rom-lineageos-16-0-redmi-note-7-t3949983
 *[ROM][OTA][8.1] LineageOS 15.1 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-lineageos-15-1-huawei-p10-lite-t3951279
+*[ROM][9] Bootleggers 4.3 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-bootleggersrom-4-2-huawei-p10-lite-t3947110
+*[ROM][9][ginkgo] Pixel Experience 9 for Redmi Note 8: https://forum.xda-developers.com/redmi-note-8/development/rom-pixel-experience-redmi-note-8-t4006513/post80956857
 
 ***Where DarkJoker360 contributed***
 
