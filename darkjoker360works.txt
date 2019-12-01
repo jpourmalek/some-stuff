@@ -75,6 +75,8 @@
 *[ROM][OTA][8.1] LineageOS 15.1 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-lineageos-15-1-huawei-p10-lite-t3951279
 *[ROM][9] Bootleggers 4.3 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-bootleggersrom-4-2-huawei-p10-lite-t3947110
 *[ROM][9][ginkgo] Pixel Experience 9 for Redmi Note 8: https://forum.xda-developers.com/redmi-note-8/development/rom-pixel-experience-redmi-note-8-t4006513/post80956857
+*[ROM][10] AOSP 10 for Huawei P10 Lite: https://forum.xda-developers.com/p10-lite/development/rom-aosp-10-huawei-p10-lite-t4008983
+*[ROM][10] AOSP 10 for Huawei P8 Lite 2017: https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-aosp-10-huawei-p8-lite-2017-t4008999
 
 ***Where DarkJoker360 contributed***
 
